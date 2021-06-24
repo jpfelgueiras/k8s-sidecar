@@ -1,1 +1,4 @@
 https://www.magalix.com/blog/implemeting-a-reverse-proxy-server-in-kubernetes-using-the-sidecar-pattern
+
+
+kubectl apply -f deploy.yml
